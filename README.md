@@ -2,7 +2,7 @@
 # RGM's ntscQT presets
 Since no one until the creation of this repo, made available presets for the [JargeZ's ntscQT](https://github.com/JargeZ/vhs) application, i decided to make available some myself.
 
-## Examples and showcase
+<!--## Examples and showcase
 <p>
   <img src="https://user-images.githubusercontent.com/40833244/130843359-fd9433ec-0e78-4a9d-88d2-a004a7c04df1.png" alt="Original" height="300px"><br>
   <i>Original frame from anime Cardcaptor Sakura<br>© CLAMP, ST, KODANSHA / NHK, NEP</i>
@@ -11,7 +11,7 @@ Since no one until the creation of this repo, made available presets for the [Ja
 | Rendered img | Preset |
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/40833244/130846142-e3bb650a-8e8b-4faa-bde9-e981d00afb1d.png" alt="VHS_1" height="200px"> | [VHS_1](VHS_1.json) - First VHS preset, more like 90s to 2000s |
-| <img src="https://user-images.githubusercontent.com/40833244/130847030-98281980-3169-4b27-96ed-89edbb23cb03.png" alt="VHS_2" height="200px"> | [VHS_2](VHS_2.json) - Modified from VHS_1, now more like 80s VHS. |
+| <img src="https://user-images.githubusercontent.com/40833244/130847030-98281980-3169-4b27-96ed-89edbb23cb03.png" alt="VHS_2" height="200px"> | [VHS_2](VHS_2.json) - Modified from VHS_1, now more like 80s VHS. |-->
 
 ## How to use
 
